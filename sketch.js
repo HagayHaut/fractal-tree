@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(30);
+  background(45);
   angle = slider.value();
   stroke(255);
   translate(320, height);
