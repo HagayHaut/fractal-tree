@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #c19a6c;
+  font-family: 'Chakra Petch', sans-serif;
+  display: flex;
+  flex-direction: column;
+  padding: 0 100px 0 100px;
+;}
+
+h1 {
+  font-size: 1.9em;
+}
+
+#subtitle {
+  font-size: 0.5em;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+}
+
+.content-item {
+  display: inline-block;
+}
+
+
+
+
+
+
+
