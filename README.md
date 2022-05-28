@@ -1,6 +1,6 @@
 # Interactive Recursive Fractal Tree
 
-![Fractal Tree 1](./tree1.png)
+![Fractal Tree 1](./assets/photos/tree1.png)
 
 This mini project was inspired and guided by [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) YouTube channel. The p5 library was used for creating the canvas and translate the recursive function calls to lines on the screen. Try it out for yourself [here](https://hagayhaut.github.io/fractal-tree/). Move the slider and check out all the different trees just you can create!
 
@@ -39,7 +39,7 @@ function branch(len) {
 ## Some of my favorites: 
 
 
-![Fractal Tree 2](./tree2.png)
-![Fractal Tree 3](./tree3.png)
-![Fractal Tree 4](./tree4.png)
-![Fractal Tree 5](./tree5.png)
+![Fractal Tree 2](/assets/photos/tree2.png)
+![Fractal Tree 3](/assets/photos/tree3.png)
+![Fractal Tree 4](/assets/photos/tree4.png)
+![Fractal Tree 5](/assets/photos/tree5.png)
