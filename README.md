@@ -14,7 +14,7 @@ Since computers cannot compute fractals to infinity, these "fractal trees" are n
 
 ## Using Recursion 
 
-Recursion is a great tool for working with fractals, because it is essentially the programmatic version of a fractal, with the important distinction that recursion is equipped with a base case to the end the recursive call. Check out the function doing the heavy lifting:
+Recursion is a great tool for working with fractals, because it is essentially the programmatic version of a fractal, with the important distinction that recursion is equipped with a base case to the end the recursive call. To learn more about recursion, check out my blog post [The 3 Rules For Writing A Recursive Function](https://scriptable.hashnode.dev/the-3-rules-for-writing-a-recursive-function). And finally, here is the function doing the heavy lifting:
 
 ```javascript
 function branch(len) {
