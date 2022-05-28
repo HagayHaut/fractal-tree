@@ -39,7 +39,11 @@ function branch(len) {
 ## Some of my favorites: 
 
 
+
 ![Fractal Tree 2](/assets/photos/tree2.png)
-![Fractal Tree 3](/assets/photos/tree3.png)
+
 ![Fractal Tree 4](/assets/photos/tree4.png)
+
 ![Fractal Tree 5](/assets/photos/tree5.png)
+
+![Fractal Tree 3](/assets/photos/tree3.png)
