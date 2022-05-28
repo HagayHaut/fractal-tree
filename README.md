@@ -10,7 +10,7 @@ A fractal is a pattern which seems identical at different scales, and repeats it
 
 ## Well It's Really A Pseudo Fractal Tree...
 
-Since computers cannot compute fractals to infinity, these "fractal trees" are not true fractals, as their branches stop growing once they reach the length of 4 pixels. They are pseudo-fractal trees. Furthermore, the width of each branch is not a fraction of the length, but half the log of the length. I chose to use the log of the length so that the width is still visible at the tips, but also decreases with each iteration of the tree.
+Since computers cannot compute fractals to infinity, these "fractal trees" are not true fractals, as their branches stop growing once they reach the length of 4 pixels. They are pseudo-fractal trees. Furthermore, the width of each branch is not a fraction of the length, but half the log of the length. I chose to use the log of the length (divided by 2) so that the width is still visible at the tips, but also decreases with each iteration of the tree.
 
 ## Using Recursion 
 
